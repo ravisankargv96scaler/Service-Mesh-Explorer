@@ -1,0 +1,5 @@
+{
+  "name": "t2-Service Mesh Explorer",
+  "description": "An interactive educational application explaining Service Mesh concepts through visual simulations, ranging from sidecar proxies to traffic splitting.",
+  "requestFramePermissions": []
+}
